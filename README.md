@@ -1,8 +1,8 @@
-Blackjack Game in Python
+Blackjack Game in Python:
 
 This repository contains a simple console-based implementation of the classic card game Blackjack in Python.
 
-Overview
+Overview:
 
 The game allows a player to play Blackjack against a dealer, with the following features:
 
